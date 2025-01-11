@@ -1,0 +1,61 @@
+﻿REF 1,"O’Donnell, H. R. et al. Colloidal aggregators in biochemical SARS-CoV-2 repurposing Screens. J. Med. Chem. 64, 17530-17539 (2021). DOI: 10.1021/acs.jmedchem.1c01547",,
+REF 2,"Isabella S. Glenn, Lauren N. Hall, Mir M. Khalid, Melanie Ott, and Brian K. Shoichet Journal of Medicinal Chemistry 2024 67 (12), 10263-10274 DOI: 10.1021/acs.jmedchem.4c00597",,
+REF,Name,SMILES,"Label (0 = non-aggregator, 1 = aggregator)"
+1,Manidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OCCN2CCN(C(c3ccccc3)c3ccccc3)CC2)C1c1cccc([N+](=O)[O-])c1,1
+1,Anthralin,O=C1c2c(O)cccc2Cc2cccc(O)c21,1
+1,Cinacalcet,CC(NCCCc1cccc(C(F)(F)F)c1)c1cccc2ccccc12,1
+1,Lercanidipine,COC(=O)C1=C(C)NC(C)=C(C(=O)OC(C)(C)CN(C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,1
+1,Shikonin,CC(C)=CCC(O)C1=CC(=O)c2c(O)ccc(O)c2C1=O,1
+1,Gossypol,Cc1cc2c(C(C)C)c(O)c(O)c(C=O)c2c(O)c1-c1c(C)cc2c(C(C)C)c(O)c(O)c(C=O)c2c1O,1
+1,Clotrimazole,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,1
+1,TTNPB,CC(=Cc1ccc(C(=O)O)cc1)c1ccc2c(c1)C(C)(C)CCC2(C)C,1
+1,Clioquinol,Oc1c(I)cc(Cl)c2cccnc12,1
+1,4E1R Cat,O=C(O)c1ccc(N2C(=O)C(=Cc3ccc(-c4ccc([N+](=O)[O-])cc4)o3)C=C2c2ccccc2)cc1,1
+1,Ylf-466D,O=C(O)c1cccc(CN2C(=O)C(=C(c3ccccc3)c3ccc(Cl)cc3)c3ccccc32)c1,1
+1,Aripiprazole,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,1
+1,Myricetin,O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,1
+1,Emodin,Cc1cc(O)c2c(c1)C(=O)c1cc(O)cc(O)c1C2=O,1
+1,Hypericin,Cc1cc(=O)c2c(O)c3c(O)cc(O)c4c5c(O)cc(O)c6c(O)c7c(=O)cc(C)c8c1c2c(c34)c(c65)c78,1
+1,Evans-blue,Cc1cc(-c2ccc(N=Nc3ccc4c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c(N)c4c3O)c(C)c2)ccc1N=Nc1ccc2c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c(N)c2c1O,1
+1,TBB,Brc1c(Br)c(Br)c2n[nH]nc2c1Br,1
+1,Quinacrine,CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12,0
+1,CAY-10581,CC1(C)OC2=C(C(=O)c3ccccc3C2=O)C(NCc2ccccc2)C1O,0
+1,Mycophenolic Acid,COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)O)C(=O)OC2,0
+1,Altrenogest,C=CCC1(O)CCC2C3CCC4=CC(=O)CCC4=C3C=CC21C,0
+1,Teicoplanina,CCCCCCCCCC(=O)NC1C(Oc2c3cc4cc2Oc2ccc(cc2Cl)C(OC2OC(CO)C(O)C(O)C2NC(C)=O)C2NC(=O)C(NC(=O)C4NC(=O)C4NC(=O)C(Cc5ccc(c(Cl)c5)O3)NC(=O)C(N)c3ccc(O)c(c3)Oc3cc(O)cc4c3)c3ccc(O)c(c3)-c3c(OC4OC(CO)C(O)C(O)C4O)cc(O)cc3C(C(=O)O)NC2=O)OC(CO)C(O)C1O,0
+1,Terfenadine,CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0
+1,efonidipine,CC1=C(C(=O)OCCN(Cc2ccccc2)c2ccccc2)C(c2cccc([N+](=O)[O-])c2)C(P2(=O)OCC(C)(C)CO2)=C(C)N1,0
+1,DBeQ,c1ccc(CNc2nc(NCc3ccccc3)c3ccccc3n2)cc1,0
+1,Walrycin B,Cn1nc(-c2ccc(C(F)(F)F)cc2)nc2c(=O)n(C)c(=O)nc1-2,0
+1,TDZD-8,Cn1sc(=O)n(Cc2ccccc2)c1=O,0
+1,chlorpheniramine,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,0
+1,doxylamine ,CN(C)CCOC(C)(c1ccccc1)c1ccccn1,0
+1,doxepin,CN(C)CCC=C1c2ccccc2COc2ccccc21,0
+1,methylene blue,CN(C)c1ccc2nc3ccc(=[N+](C)C)cc-3sc2c1,0
+1,chlorpromazine,CN(C)CCCN1c2ccccc2Sc2ccc(Cl)cc21,0
+1,perphenazine,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(Cl)cc32)CC1,0
+1,fluphenazine,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,0
+1,trifluoperazine,CN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,0
+1,promethazine,CC(CN1c2ccccc2Sc2ccccc21)N(C)C,0
+1,tiapride,CCN(CC)CCNC(=O)c1cc(S(C)(=O)=O)ccc1OC,0
+1,quetiapine,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,0
+1,telaprevir,CCCC(NC(=O)C1C2CCCC2CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,0
+1,Blonanserine,CCN1CCN(c2cc(-c3ccc(F)cc3)c3c(n2)CCCCCC3)CC1,0
+2,Azelastine,CN1CCCC(n2nc(Cc3ccc(Cl)cc3)c3ccccc3c2=O)CC1,0
+2,clemastine,CN1CCCC1CCOC(C)(c1ccccc1)c1ccc(Cl)cc1,0
+2,Isochlorogenic acid A,O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(OC(=O)C=Cc2ccc(O)c(O)c2)C1O,0
+2,Nortriptyline,CNCCC=C1c2ccccc2CCc2ccccc21,0
+2,solifenacine,O=C(OC1CN2CCC1CC2)N1CCc2ccccc2C1c1ccccc1,0
+2,Amentoflavone,O=c1cc(-c2ccc(O)c(-c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc34)c2)oc2cc(O)cc(O)c12,1
+2,Arbidol,CCOC(=O)c1c(CSc2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,1
+2,Bakuchiol,C=CC(C)(C=Cc1ccc(O)cc1)CCC=C(C)C,1
+2,CBDA,C=C(C)C1CCC(C)=CC1c1c(O)cc(CCCCC)c(C(=O)O)c1O,1
+2,CBGA,CCCCCc1cc(O)c(CC=C(C)CCC=C(C)C)c(O)c1C(=O)O,1
+2,Ciclesonide,CC(C)C(=O)OCC(=O)C12OC(C3CCCCC3)OC1CC1C3CCC4=CC(=O)C=CC4(C)C3C(O)CC12C,1
+2,curcumin,COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O,1
+2,Estradiol Benzoate,CC12CCC3c4ccc(OC(=O)c5ccccc5)cc4CCC3C1CCC2O,1
+2,Glycyrrhizic Acid,CC1(C(=O)O)CCC2(C)CCC3(C)C(=CC(=O)C4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6OC6OC(C(=O)O)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1,1
+2,isobavachalcone,CC(C)=CCc1c(O)ccc(C(=O)C=Cc2ccc(O)cc2)c1O,1
+2,licofelone,CC1(C)Cc2c(-c3ccccc3)c(-c3ccc(Cl)cc3)c(CC(=O)O)n2C1,1
+2,luteolin,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,1
+2,Quercetin,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,1

@@ -1,0 +1,26 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/HS_240_liquid/11/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-01-27T10:40:06.976+0000>,<AVANCENEO400\Sample Changer>,<AVANCENEO400>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ D:/nmrdata/user/Davis/HS_240_liquid/11/audita.txt
+(   2,<2024-01-27T11:39:01.894+0000>,<AVANCENEO400\Sample Changer>,<AVANCENEO400>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'AvanceNeo' (AVANCENEO400) by user 'AVANCENEO400\Sample Changer'
+       on data set with UUID '6fd254a2-bd00-11ee-baba-0030d62ad76c'
+       started at 2024-01-27 10:40:06.976 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-01-27 11:39:01.893 +0000
+       configuration hash MD5:
+       55 9D D7 EE 49 54 2C E4 5A E6 8A 9C D9 F1 74 98
+       double data hash MD5: 64K
+       7C 2E A1 A7 13 74 11 35 C3 3C C4 DF DD AA B5 2F>)
+(   3,<2024-01-27T05:39:02.283-0600>,<Sample Changer>,<AVANCENEO400>,<xwish3>,<TopSpin 4.3.0>,
+      <ICON-NMR User ID: Davis
+       double data hash MD5: 64K
+       7C 2E A1 A7 13 74 11 35 C3 3C C4 DF DD AA B5 2F>)
+##END=
+
+$$ hash MD5
+$$ CB 08 76 FC 3A 7A 56 C1 CC 2A 31 69 12 5C C6 1D
